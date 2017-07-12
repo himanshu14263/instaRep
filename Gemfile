@@ -30,6 +30,8 @@ gem 'haml'
 
 gem 'simple_form'
 
+gem 'devise'
+
 gem 'bootstrap-sass', '~> 3.3.6'
 
 # Use Redis adapter to run Action Cable in production
